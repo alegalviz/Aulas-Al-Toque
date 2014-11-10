@@ -63,6 +63,7 @@
       <change type="MOVED" beforePath="C:\Users\Alejandro\Documents\GitHub\aulasaltoque\public\robots.txt" afterPath="$PROJECT_DIR$/backend/public/robots.txt" />
       <change type="MOVED" beforePath="C:\Users\Alejandro\Documents\GitHub\aulasaltoque\readme.md" afterPath="$PROJECT_DIR$/backend/readme.md" />
       <change type="MOVED" beforePath="C:\Users\Alejandro\Documents\GitHub\aulasaltoque\server.php" afterPath="$PROJECT_DIR$/backend/server.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="aulasaltoque.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -130,6 +131,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="aulasaltoque" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aulasaltoque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aulasaltoque" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
