@@ -1,0 +1,80 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   .idea/aulasaltoque.iml
+#	new file:   .idea/encodings.xml
+#	new file:   .idea/misc.xml
+#	new file:   .idea/modules.xml
+#	new file:   .idea/scopes/scope_settings.xml
+#	new file:   .idea/vcs.xml
+#	new file:   CONTRIBUTING.md
+#	new file:   app/commands/.gitkeep
+#	new file:   app/config/app.php
+#	new file:   app/config/auth.php
+#	new file:   app/config/cache.php
+#	new file:   app/config/compile.php
+#	new file:   app/config/database.php
+#	new file:   app/config/local/app.php
+#	new file:   app/config/local/database.php
+#	new file:   app/config/mail.php
+#	new file:   app/config/packages/.gitkeep
+#	new file:   app/config/queue.php
+#	new file:   app/config/remote.php
+#	new file:   app/config/services.php
+#	new file:   app/config/session.php
+#	new file:   app/config/testing/cache.php
+#	new file:   app/config/testing/session.php
+#	new file:   app/config/view.php
+#	new file:   app/config/workbench.php
+#	new file:   app/controllers/.gitkeep
+#	new file:   app/controllers/BaseController.php
+#	new file:   app/controllers/HomeController.php
+#	new file:   app/database/.gitignore
+#	new file:   app/database/migrations/.gitkeep
+#	new file:   app/database/seeds/.gitkeep
+#	new file:   app/database/seeds/DatabaseSeeder.php
+#	new file:   app/filters.php
+#	new file:   app/lang/en/pagination.php
+#	new file:   app/lang/en/reminders.php
+#	new file:   app/lang/en/validation.php
+#	new file:   app/models/User.php
+#	new file:   app/routes.php
+#	new file:   app/start/artisan.php
+#	new file:   app/start/global.php
+#	new file:   app/start/local.php
+#	new file:   app/storage/.gitignore
+#	new file:   app/storage/cache/.gitignore
+#	new file:   app/storage/logs/.gitignore
+#	new file:   app/storage/meta/.gitignore
+#	new file:   app/storage/sessions/.gitignore
+#	new file:   app/storage/views/.gitignore
+#	new file:   app/tests/ExampleTest.php
+#	new file:   app/tests/TestCase.php
+#	new file:   app/views/emails/auth/reminder.blade.php
+#	new file:   app/views/hello.php
+#	new file:   artisan
+#	new file:   bootstrap/autoload.php
+#	new file:   bootstrap/paths.php
+#	new file:   bootstrap/start.php
+#	new file:   composer.json
+#	new file:   phpunit.xml
+#	new file:   public/.htaccess
+#	new file:   public/favicon.ico
+#	new file:   public/index.php
+#	new file:   public/packages/.gitkeep
+#	new file:   public/robots.txt
+#	new file:   readme.md
+#	new file:   server.php
+#
+# Untracked files:
+#	.idea/.name
+#	.idea/workspace.xml
+#
+
